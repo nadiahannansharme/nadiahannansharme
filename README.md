@@ -21,7 +21,7 @@ SQA Skills [Manual Testing/Api testing/Database testing/Automation testing/Data 
 - Email: nadiy8302@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nadia-hannan-sharme-b62752243/
 
-- 📄 Know about my experiences [Nadia Hannan Sharme](https://drive.google.com/file/d/130RXFy8AIsBfzwqR1Q_GMzOtXO_82DEq/view?usp=sharing)
+📄 Know about my experiences [Nadia Hannan Sharme](https://drive.google.com/file/d/130RXFy8AIsBfzwqR1Q_GMzOtXO_82DEq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
