@@ -15,7 +15,7 @@ SQA Skills [Manual Testing/Api testing/Database testing/Automation testing/Data 
 - Agile Methodology and Project Management Tool: Jira
 - Concepts: SDLC, STLC, OOP
 
-- 👨‍💻 All of my projects are available at [https://github.com/nadiahannansharme?tab=repositories](https://github.com/nadiahannansharme?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/nadiahannansharme?tab=repositories](https://github.com/nadiahannansharme?tab=repositories)
 
 📫 How to reach me
 - Email: nadiy8302@gmail.com
