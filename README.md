@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadia Hannan Sharme</h1>
 <h3 align="center">An enthusiastic Computer Science Engineer who enjoys picking up new skills.</h3>
-<img align="right" alt="coding" width ="500" src="https://algoworksupload.s3.amazonaws.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif">
+<img align="right" alt="coding" width ="400" src="https://algoworksupload.s3.amazonaws.com/new-algoworks/wp-content/uploads/2016/05/16105109/Software-Test-Management.gif">
 
 [<h2>A fresh graduate of East West University</h2>](https://www.ewubd.edu/)
 
